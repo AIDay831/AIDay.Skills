@@ -1,5 +1,5 @@
 # AIDay.Skills
-General AIDay Skills Module. 
+General AIDay Skills Module / 通用AIDay技能模块. 
 
 
 ## AIDay Skills module may including, but not limited to：
@@ -18,3 +18,4 @@ General AIDay Skills Module.
 <li>AIDay公益活动或项目</li>
 </ul>
 
+### Welcome to Support 
