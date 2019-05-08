@@ -18,4 +18,13 @@ General AIDay Skills Module / 通用AIDay技能模块.
 <li>AIDay公益活动或项目</li>
 </ul>
 
-### Welcome to Support 
+### Starring or Retweeting the <a href="https://github.com/AIDay831/AIDay.Skills">AIDay.Skills</a> repository to support !
+
+请加星或推特转发 <a href="https://github.com/AIDay831/AIDay.Skills">AIDay.Skills</a> 支持。
+ 
+### Follow Us
+Twitter: @AIDay831 <br/>
+GitHub: https://github.com/AIDay831/AIDay.831 <br/>
+&emsp;&emsp;&emsp;&emsp;https://github.com/AIDay831/AIDay.Skills
+
+Contact Us:  AI@AIDay831.org
